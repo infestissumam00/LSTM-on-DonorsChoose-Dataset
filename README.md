@@ -1,1 +1,1 @@
-# LSTM-on-Amazon-Food-Revies-Dataset
+# LSTM-on-DonorsChoose-Dataset
